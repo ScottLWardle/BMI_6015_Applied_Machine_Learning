@@ -31,7 +31,7 @@ or
 jupyter lab
 
 
-Navigate to the .ipynb file (for example, analysis/statistics.ipynb) and open it.
+Navigate to the .ipynb file (for example, analysis/Hand Hygiene Project.ipynb) and open it.
 Make your edits — code updates, new visualizations, documentation, etc.
 
 💡 Tip: Before saving, select Kernel → Restart & Run All to ensure all cells run cleanly and outputs are consistent.
@@ -40,7 +40,7 @@ Make your edits — code updates, new visualizations, documentation, etc.
 
 Once your edits are complete:
 
-git add analysis/statistics.ipynb
+git add analysis/Hand Hygiene Project.ipynb
 git commit -m "Updated handwashing duration analysis"
 git push origin notebook-updates
 
